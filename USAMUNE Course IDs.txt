@@ -1,0 +1,262 @@
+#########################################################################################################################################################
+#########################################################################################################################################################
+
+ /$$   /$$  /$$$$$$   /$$$$$$  /$$      /$$ /$$   /$$ /$$   /$$ /$$$$$$$$        /$$$$$$   /$$$$$$  /$$$$$$$  /$$$$$$$$  /$$$$$$
+| $$  | $$ /$$__  $$ /$$__  $$| $$$    /$$$| $$  | $$| $$$ | $$| $$_____/       /$$__  $$ /$$__  $$| $$__  $$| $$_____/ /$$__  $$
+| $$  | $$| $$  \__/| $$  \ $$| $$$$  /$$$$| $$  | $$| $$$$| $$| $$            | $$  \__/| $$  \ $$| $$  \ $$| $$      | $$  \__/
+| $$  | $$|  $$$$$$ | $$$$$$$$| $$ $$/$$ $$| $$  | $$| $$ $$ $$| $$$$$         | $$      | $$  | $$| $$  | $$| $$$$$   |  $$$$$$
+| $$  | $$ \____  $$| $$__  $$| $$  $$$| $$| $$  | $$| $$  $$$$| $$__/         | $$      | $$  | $$| $$  | $$| $$__/    \____  $$
+| $$  | $$ /$$  \ $$| $$  | $$| $$\  $ | $$| $$  | $$| $$\  $$$| $$            | $$    $$| $$  | $$| $$  | $$| $$       /$$  \ $$
+|  $$$$$$/|  $$$$$$/| $$  | $$| $$ \/  | $$|  $$$$$$/| $$ \  $$| $$$$$$$$      |  $$$$$$/|  $$$$$$/| $$$$$$$/| $$$$$$$$|  $$$$$$/
+ \______/  \______/ |__/  |__/|__/     |__/ \______/ |__/  \__/|________/       \______/  \______/ |_______/ |________/ \______/
+
+#########################################################################################################################################################
+#########################################################################################################################################################
+
+  /$$$$$$  /$$   /$$ /$$$$$$$$  /$$$$$$  /$$$$$$ /$$$$$$$  /$$$$$$$$
+ /$$__  $$| $$  | $$|__  $$__/ /$$__  $$|_  $$_/| $$__  $$| $$_____/
+| $$  \ $$| $$  | $$   | $$   | $$  \__/  | $$  | $$  \ $$| $$
+| $$  | $$| $$  | $$   | $$   |  $$$$$$   | $$  | $$  | $$| $$$$$
+| $$  | $$| $$  | $$   | $$    \____  $$  | $$  | $$  | $$| $$__/
+| $$  | $$| $$  | $$   | $$    /$$  \ $$  | $$  | $$  | $$| $$
+|  $$$$$$/|  $$$$$$/   | $$   |  $$$$$$/ /$$$$$$| $$$$$$$/| $$$$$$$$
+ \______/  \______/    |__/    \______/ |______/|_______/ |________/
+
+#########################################################################################################################################################
+
+ID	        Course			                        Entrance
+
+10 01 00	Outside Peach's Castle			        From Peach's Castle Interior (Left Door)
+10 01 01	Outside Peach's Castle					From Peach's Castle Interior (Right Door)
+10 01 02	Outside Peach's Castle					From Basement
+10 01 03	Outside Peach's Castle					From Death
+10 01 04	Outside Peach's Castle					From File Select
+10 01 05	Outside Peach's Castle					Jumping out of VCutM
+10 01 06	Outside Peach's Castle					Death in VCutM
+10 01 07	Outside Peach's Castle					Falling in VCutM
+10 01 08	Outside Peach's Castle					Completing VCutM
+10 01 0A	Outside Peach's Castle					Falling in WMotR
+10 01 14	Outside Peach's Castle					Waterfall in CotMC
+10 01 1E	Outside Peach's Castle					DDD Entrance
+
+#########################################################################################################################################################
+
+ /$$        /$$$$$$  /$$$$$$$  /$$$$$$$  /$$     /$$
+| $$       /$$__  $$| $$__  $$| $$__  $$|  $$   /$$/
+| $$      | $$  \ $$| $$  \ $$| $$  \ $$ \  $$ /$$/
+| $$      | $$  | $$| $$$$$$$ | $$$$$$$   \  $$$$/
+| $$      | $$  | $$| $$__  $$| $$__  $$   \  $$/
+| $$      | $$  | $$| $$  \ $$| $$  \ $$    | $$
+| $$$$$$$$|  $$$$$$/| $$$$$$$/| $$$$$$$/    | $$
+|________/ \______/ |_______/ |_______/     |__/
+
+#########################################################################################################################################################
+
+ID	        Course			                        Entrance
+
+06 01 00	Inside Peach's Castle (Lobby)			From Outside Peach's Castle (Right Door)
+06 01 01	Inside Peach's Castle (Lobby)			From Outside Peach's Castle (Left Door)
+06 01 02	Inside Peach's Castle (Lobby)			From Courtyard
+06 01 03	Inside Peach's Castle (Lobby)			From Upstairs (Left Door)
+06 01 04	Inside Peach's Castle (Lobby)			From Upstairs (Right Door)
+06 01 05	Inside Peach's Castle (Lobby)			From Basement (Right Door)
+06 01 06	Inside Peach's Castle (Lobby)			From Basement (Left Door)
+06 01 1f	Inside Peach's Castle (Lobby)			Exit Course
+06 01 20	Inside Peach's Castle (Lobby)			Falling off in TotWC/PSS
+06 01 23	Inside Peach's Castle (Lobby)			Death in TotWC/PSS
+06 01 24	Inside Peach's Castle (Lobby)			Key in BitDW
+06 01 25	Inside Peach's Castle (Lobby)			Death in BitDW
+06 01 26	Inside Peach's Castle (Lobby)			Completing TotWC/PSS
+06 01 27	Inside Peach's Castle (Lobby)			Completing SA
+06 01 28	Inside Peach's Castle (Lobby)			Death in SA
+06 01 32	Inside Peach's Castle (Lobby)			Star in BOB
+06 01 33	Inside Peach's Castle (Lobby)			Star in CCM
+06 01 34	Inside Peach's Castle (Lobby)			Star in WF
+06 01 35	Inside Peach's Castle (Lobby)			Star in JRB
+06 01 64	Inside Peach's Castle (Lobby)			Death in BOB
+06 01 65	Inside Peach's Castle (Lobby)			Death in CCM
+06 01 66	Inside Peach's Castle (Lobby)			Death in WF
+06 01 67	Inside Peach's Castle (Lobby)			Death in JRB
+
+#########################################################################################################################################################
+
+  /$$$$$$   /$$$$$$  /$$   /$$ /$$$$$$$  /$$$$$$$$ /$$     /$$  /$$$$$$  /$$$$$$$  /$$$$$$$
+ /$$__  $$ /$$__  $$| $$  | $$| $$__  $$|__  $$__/|  $$   /$$/ /$$__  $$| $$__  $$| $$__  $$
+| $$  \__/| $$  \ $$| $$  | $$| $$  \ $$   | $$    \  $$ /$$/ | $$  \ $$| $$  \ $$| $$  \ $$
+| $$      | $$  | $$| $$  | $$| $$$$$$$/   | $$     \  $$$$/  | $$$$$$$$| $$$$$$$/| $$  | $$
+| $$      | $$  | $$| $$  | $$| $$__  $$   | $$      \  $$/   | $$__  $$| $$__  $$| $$  | $$
+| $$    $$| $$  | $$| $$  | $$| $$  \ $$   | $$       | $$    | $$  | $$| $$  \ $$| $$  | $$
+|  $$$$$$/|  $$$$$$/|  $$$$$$/| $$  | $$   | $$       | $$    | $$  | $$| $$  | $$| $$$$$$$/
+ \______/  \______/  \______/ |__/  |__/   |__/       |__/    |__/  |__/|__/  |__/|_______/
+
+#########################################################################################################################################################
+
+ID	        Course			                        Entrance
+
+1A 01 01	Castle Courtyard			            From Lobby
+1A 01 0A	Castle Courtyard			            Star from BBH
+1A 01 0B	Castle Courtyard			            Death in BBH
+
+#########################################################################################################################################################
+
+ /$$$$$$$   /$$$$$$   /$$$$$$  /$$$$$$$$ /$$      /$$ /$$$$$$$$ /$$   /$$ /$$$$$$$$
+| $$__  $$ /$$__  $$ /$$__  $$| $$_____/| $$$    /$$$| $$_____/| $$$ | $$|__  $$__/
+| $$  \ $$| $$  \ $$| $$  \__/| $$      | $$$$  /$$$$| $$      | $$$$| $$   | $$
+| $$$$$$$ | $$$$$$$$|  $$$$$$ | $$$$$   | $$ $$/$$ $$| $$$$$   | $$ $$ $$   | $$
+| $$__  $$| $$__  $$ \____  $$| $$__/   | $$  $$$| $$| $$__/   | $$  $$$$   | $$
+| $$  \ $$| $$  | $$ /$$  \ $$| $$      | $$\  $ | $$| $$      | $$\  $$$   | $$
+| $$$$$$$/| $$  | $$|  $$$$$$/| $$$$$$$$| $$ \/  | $$| $$$$$$$$| $$ \  $$   | $$
+|_______/ |__/  |__/ \______/ |________/|__/     |__/|________/|__/  \__/   |__/
+
+#########################################################################################################################################################
+
+ID	        Course			                        Entrance
+
+06 03 00	Basement			                    From Lobby (Left Door)
+06 03 01	Basement			                    From Lobby (Right Door)
+06 03 02	Basement			                    From Outside
+06 03 64	Basement			                    Death LLL
+06 03 65	Basement			                    Death SSL
+06 03 66	Basement			                    Death HMC
+06 03 67	Basement			                    Death DDD
+06 03 68	Basement			                    Death BitFS
+06 03 32	Basement			                    Star LLL
+06 03 33	Basement			                    Star SSL
+06 03 34	Basement			                    Star HMC
+06 03 35	Basement			                    Star DDD
+06 03 36	Basement			                    Key BitFS
+
+#########################################################################################################################################################
+
+ /$$   /$$ /$$$$$$$   /$$$$$$  /$$$$$$$$  /$$$$$$  /$$$$$$ /$$$$$$$   /$$$$$$        /$$ /$$$$$$$$ /$$$$$$ /$$$$$$$  /$$$$$$$  /$$     /$$
+| $$  | $$| $$__  $$ /$$__  $$|__  $$__/ /$$__  $$|_  $$_/| $$__  $$ /$$__  $$      /$$/|__  $$__/|_  $$_/| $$__  $$| $$__  $$|  $$   /$$/
+| $$  | $$| $$  \ $$| $$  \__/   | $$   | $$  \ $$  | $$  | $$  \ $$| $$  \__/     /$$/    | $$     | $$  | $$  \ $$| $$  \ $$ \  $$ /$$/
+| $$  | $$| $$$$$$$/|  $$$$$$    | $$   | $$$$$$$$  | $$  | $$$$$$$/|  $$$$$$     /$$/     | $$     | $$  | $$$$$$$/| $$$$$$$/  \  $$$$/
+| $$  | $$| $$____/  \____  $$   | $$   | $$__  $$  | $$  | $$__  $$ \____  $$   /$$/      | $$     | $$  | $$____/ | $$____/    \  $$/
+| $$  | $$| $$       /$$  \ $$   | $$   | $$  | $$  | $$  | $$  \ $$ /$$  \ $$  /$$/       | $$     | $$  | $$      | $$          | $$
+|  $$$$$$/| $$      |  $$$$$$/   | $$   | $$  | $$ /$$$$$$| $$  | $$|  $$$$$$/ /$$/        | $$    /$$$$$$| $$      | $$          | $$
+ \______/ |__/       \______/    |__/   |__/  |__/|______/|__/  |__/ \______/ |__/         |__/   |______/|__/      |__/          |__/
+
+#########################################################################################################################################################
+
+ID	        Course			                        Entrance
+
+06 01 00	Upstairs/Tippy			                From Lobby (Right Door)
+06 02 01	Upstairs/Tippy			                From Lobby (Left Door)
+06 02 32	Upstairs/Tippy			                Star WDW
+06 02 33	Upstairs/Tippy			                Star THIT
+06 02 34	Upstairs/Tippy			                Star TTM
+06 02 35	Upstairs/Tippy			                Star TTC
+06 02 36	Upstairs/Tippy			                Star SL
+06 02 37	Upstairs/Tippy			                Star THIH
+06 02 38	Upstairs/Tippy			                Star WMotR
+06 02 3A	Upstairs/Tippy			                Star RR
+06 02 64	Upstairs/Tippy			                Death WDW
+06 02 65	Upstairs/Tippy			                Death THIT
+06 02 66	Upstairs/Tippy			                Death TTM
+06 02 67	Upstairs/Tippy			                Death TTC
+06 02 68	Upstairs/Tippy			                Death SL
+06 02 69	Upstairs/Tippy			                Death THIH
+06 02 6B	Upstairs/Tippy			                Death BitS
+06 02 6C	Upstairs/Tippy			                Death RR
+06 02 6D	Upstairs/Tippy			                Death WMotR
+
+#########################################################################################################################################################
+
+ /$$$$$$$$ /$$$$$$$$ /$$       /$$$$$$$$ /$$$$$$$   /$$$$$$  /$$$$$$$  /$$$$$$$$  /$$$$$$        /$$ /$$      /$$  /$$$$$$  /$$$$$$$  /$$$$$$$   /$$$$$$
+|__  $$__/| $$_____/| $$      | $$_____/| $$__  $$ /$$__  $$| $$__  $$|__  $$__/ /$$__  $$      /$$/| $$  /$ | $$ /$$__  $$| $$__  $$| $$__  $$ /$$__  $$
+   | $$   | $$      | $$      | $$      | $$  \ $$| $$  \ $$| $$  \ $$   | $$   | $$  \__/     /$$/ | $$ /$$$| $$| $$  \ $$| $$  \ $$| $$  \ $$| $$  \__/
+   | $$   | $$$$$   | $$      | $$$$$   | $$$$$$$/| $$  | $$| $$$$$$$/   | $$   |  $$$$$$     /$$/  | $$/$$ $$ $$| $$$$$$$$| $$$$$$$/| $$$$$$$/|  $$$$$$
+   | $$   | $$__/   | $$      | $$__/   | $$____/ | $$  | $$| $$__  $$   | $$    \____  $$   /$$/   | $$$$_  $$$$| $$__  $$| $$__  $$| $$____/  \____  $$
+   | $$   | $$      | $$      | $$      | $$      | $$  | $$| $$  \ $$   | $$    /$$  \ $$  /$$/    | $$$/ \  $$$| $$  | $$| $$  \ $$| $$       /$$  \ $$
+   | $$   | $$$$$$$$| $$$$$$$$| $$$$$$$$| $$      |  $$$$$$/| $$  | $$   | $$   |  $$$$$$/ /$$/     | $$/   \  $$| $$  | $$| $$  | $$| $$      |  $$$$$$/
+   |__/   |________/|________/|________/|__/       \______/ |__/  |__/   |__/    \______/ |__/      |__/     \__/|__/  |__/|__/  |__/|__/       \______/
+
+#########################################################################################################################################################
+
+ID	        Course			                        Entrance
+
+09 01 0A	BOB			                            From Lobby
+09 01 0B	BOB			                            Teleporter from Top of Mountain
+09 01 0C	BOB			                            Teleporter from Bottom of Mountain
+09 01 0D	BOB			                            Teleporter from Grass Patch near Chain Chomp
+09 01 0E	BOB			                            Telepoter from Grass Patch near Mountain
+18 01 0A	WF			                            From Lobby
+18 01 0B	WF			                            Telepoter from Bottom of Level
+18 01 0C	WF			                            Teleporter from Top of level
+0C 01 0A	JRB			                            From Lobby
+0C 02 0A	JRB Ship			                    From JRB
+05 01 0A	CCM			                            From Lobby
+05 01 1f	CCM			                            Teleporter from Bottom of Mountain
+05 01 20	CCM			                            Teleporter from Top of Mountain
+05 02 0A	CCM Slide			                    From CCM
+04 01 0A	BBH			                            From Courtyard
+07 01 0A	HMC			                            From Basement
+07 01 0B	HMC			                            From CotMC
+16 01 0A	LLL			                            From Basement
+16 01 0B	LLL			                            From Volcano
+16 01 0C	LLL			                            Teleporter from Island
+16 01 0D	LLL			                            Teleporter from under Mr. I
+16 02 0A	LLL Volcano			                    From LLL
+08 01 0A	SSL			                            From Basment
+08 02 0A	SSL Pyramid			                    From SSL (Bottom)
+08 02 14	SSL Pyramid			                    From SSL (Top)
+08 02 15	SSL Pyramid			                    Teleporter from Bottom of Pyramid
+08 02 16	SSL Pyramid			                    Teleporter from Top of Pyramid
+08 01 1f	SSL			                            Teleporter from Tree
+08 01 20	SSL			                            Teleporter from Maze
+17 01 0A	DDD			                            From Basement
+0A 01 0A	SL			                            From Upstairs
+0A 01 0B	SL			                            From Igloo
+0A 01 0C	SL			                            From Igloo (Jump)
+0A 01 0D	SL			                            From Teleporter near Pond
+0A 01 0E	SL			                            From Teleporter near Red Coin Star
+0B 01 0A	WDW			                            From Upstairs
+0B 01 0B	WDW			                            Teleporter from Top
+0B 01 0C	WDW			                            Teleporter from Bottom
+24 01 0A	TTM			                            From Upstairs
+24 01 15	TTM			                            Teleporter from Cannon
+24 01 16	TTM			                            Teleporter from Mushroom
+24 02 0A	TTM Slide			                    From TTM
+0D 02 0A	THIT		                            From Upstairs
+0D 02 0B	THIT		                            Teleporter from Piranha Plants
+0D 02 0C	THIT		                            Teleporter from Island
+0D 02 32	THIT		                            Pipe Near Bob-Omb Buddy
+0D 02 33	THIT		                            Pipe Near Piranha Plants
+0D 02 34	THIT		                            Pipe at top of Mountain
+0D 01 0A	THIH		                            From Upstairs
+0D 01 0B	THIH		                            From Wigglers Cave
+0D 01 0C	THIH		                            From Wigglers Cave (Instant Warp)
+0D 01 0A	THIH		                            From Wigglers Cave (Top)
+0D 01 32	THIH		                            Pipe near ! Block
+0D 01 33	THIH		                            Pipe Near Piranha Plants
+0D 01 34	THIH		                            Pipe at top of Mountain
+0D 03 0A	THIH		                            From THIH (Bottom)
+0D 03 0B	THIH		                            From THIH (Top)
+0D 03 0C	THIH		                            From THIH (Bottom, Instant Warp)
+0E 01 0A	TTC			                            From Tippy
+0F 01 0A	RR			                            From Tippy
+0F 01 0B	RR			                            From House
+0F 01 0C	RR			                            From above the maze
+1D 01 0A	TotWC		                            From Lobby
+12 01 0A	VCutM		                            From Outside Peach's Castle
+1C 01 0A	CotMC		                            From HMC
+1B 01 0A	PSS			                            From Lobby
+14 01 0A	SA			                            From Lobby
+1F 01 0A	WMotR		                            From Tippy
+11 01 0A	BitDW		                            From Lobby
+11 01 0B	BitDW		                            Jump from Bowser 1
+11 01 0C	BitDW		                            Death to Bowser 1
+1E 01 0A	Bowser 1			                    From BitDW
+13 01 0A	BitFS				                    From Basement
+13 01 0B	BitFS				                    From Bowser 2 (Instant Warp)
+13 01 0C	BitFS				                    Death to Bowser 2
+21 01 0A	Bowser 2			                    From BitFS
+15 01 0A	BitS				                    From Tippy
+15 01 0B	BitS				                    Jump from Bowser 3
+15 01 0C	BitS				                    Death to Bowser 3
+22 01 0A	Bowser 3			                    From BitS
+10 01 F8	Credits				                    From Bowser 3
+
+Note: The custom Level Select in usamune doesnt normally allow you to warp to the credits because the value is too high.
+All the information was gathered and documented by Saria_100, if any is inaccurate and/or missing, message me @ saria_100 on Discord or Saria_100 on Twitch.
