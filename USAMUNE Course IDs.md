@@ -4,7 +4,7 @@
 ```
 ID	          Course                            Entrance
 
-10 01 00  Outside Peach's Castle			  From Castle Interior (Left Door)
+10 01 00	Outside Peach's Castle				From Castle Interior (Left Door)
 ____________________________________________________________________________
 10 01 01	Outside Peach's Castle				From Castle Interior (Right Door)
 ____________________________________________________________________________
@@ -179,7 +179,7 @@ ____________________________________________________________________________
 
 *TELEPORTS AND WARPS*
 
-**BOB**
+**BOB**  
 
 ```
 ID	          Course                            Entrance
