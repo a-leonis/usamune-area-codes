@@ -1,3 +1,5 @@
-Turn of word wrap if downloading instead of viewing raw txt file.
+Hello
 
-https://raw.githubusercontent.com/a-leonis/usamune-area-codes/refs/heads/main/USAMUNE%20Course%20IDs.txt
+- MD: View in Obsidian for best results
+
+- HTML: Only tested in Fire Fox and Brave
