@@ -4,29 +4,29 @@
 ```
 ID	          Course                            Entrance
 
-10 01 00	Outside Peach's Castle				From Castle Interior (Left Door)
+10 01 00	  Outside Peach's Castle			From Castle Interior (Left Door)
 ____________________________________________________________________________
-10 01 01	Outside Peach's Castle				From Castle Interior (Right Door)
+10 01 01	  Outside Peach's Castle			From Castle Interior (Right Door)
 ____________________________________________________________________________
-10 01 02	Outside Peach's Castle				From Basement
+10 01 02	  Outside Peach's Castle			From Basement
 ____________________________________________________________________________
-10 01 03	Outside Peach's Castle				From Death
+10 01 03	  Outside Peach's Castle			From Death
 ____________________________________________________________________________
-10 01 04	Outside Peach's Castle				From File Select
+10 01 04	  Outside Peach's Castle			From File Select
 ____________________________________________________________________________
-10 01 05	Outside Peach's Castle				Jumping out of VCutM
+10 01 05	  Outside Peach's Castle			Jumping out of VCutM
 ____________________________________________________________________________
-10 01 06	Outside Peach's Castle				Death in VCutM
+10 01 06	  Outside Peach's Castle			Death in VCutM
 ____________________________________________________________________________
-10 01 07	Outside Peach's Castle				Falling in VCutM
+10 01 07	  Outside Peach's Castle			Falling in VCutM
 ____________________________________________________________________________
-10 01 08	Outside Peach's Castle				Completing VCutM
+10 01 08	  Outside Peach's Castle			Completing VCutM
 ____________________________________________________________________________
-10 01 0A	Outside Peach's Castle				Falling in WMotR
+10 01 0A	  Outside Peach's Castle			Falling in WMotR
 ____________________________________________________________________________
-10 01 14	Outside Peach's Castle				Waterfall in CotMC
+10 01 14	  Outside Peach's Castle			Waterfall in CotMC
 ____________________________________________________________________________
-10 01 1E	Outside Peach's Castle				DDD Entrance
+10 01 1E	  Outside Peach's Castle			DDD Entrance
 ____________________________________________________________________________
 ```
 
